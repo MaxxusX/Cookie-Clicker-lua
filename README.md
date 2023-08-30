@@ -1,4 +1,3 @@
-# how 2 build
+made in ***Lua*** because ***Luau*** doesn't have `io.read()`
 
-* download [rtc](https://github.com/samyeyo/rtc)
-* run `rtc -o "Cookie Clicker.exe" CookieClicker.lua`
+comes with lua, no need to install it
